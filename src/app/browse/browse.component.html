@@ -1,0 +1,15 @@
+<ActionBar class="action-bar">
+  <NavigationButton visibility="hidden"></NavigationButton>
+  <GridLayout columns="50, *">
+    <Label class="action-bar-title" text="Browse" colSpan="2"></Label>
+
+    <Label class="fas" text="&#xf0c9;" (tap)="onDrawerButtonTap()"></Label>
+  </GridLayout>
+</ActionBar>
+
+<StackLayout class="page__content">
+  <Label class="page__content-icon far" text="&#xf1ea;"></Label>
+  <Label Size="20" horizontalAlignment="center" marginTop="100" text="¿Deseas conocer tu plataforma?"></Label>
+  <button text="Clic aqui" class="boton"  (tap)="tap()"></button>
+
+</StackLayout>

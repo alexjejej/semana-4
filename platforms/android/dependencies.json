@@ -1,0 +1,38 @@
+[
+    {
+        "name": "@nativescript-community/ui-pulltorefresh",
+        "directory": "..\\..\\node_modules\\@nativescript-community\\ui-pulltorefresh"
+    },
+    {
+        "name": "@nativescript/core",
+        "directory": "..\\..\\node_modules\\@nativescript\\core"
+    },
+    {
+        "name": "@nativescript/theme",
+        "directory": "..\\..\\node_modules\\@nativescript\\theme"
+    },
+    {
+        "name": "@triniwiz/nativescript-toasty",
+        "directory": "..\\..\\node_modules\\@triniwiz\\nativescript-toasty"
+    },
+    {
+        "name": "nativescript-sqlite",
+        "directory": "..\\..\\node_modules\\nativescript-sqlite"
+    },
+    {
+        "name": "nativescript-toast",
+        "directory": "..\\..\\node_modules\\nativescript-toast"
+    },
+    {
+        "name": "nativescript-toasts",
+        "directory": "..\\..\\node_modules\\nativescript-toasts"
+    },
+    {
+        "name": "nativescript-ui-sidedrawer",
+        "directory": "..\\..\\node_modules\\nativescript-ui-sidedrawer"
+    },
+    {
+        "name": "nativescript-ui-core",
+        "directory": "..\\..\\node_modules\\nativescript-ui-core"
+    }
+]

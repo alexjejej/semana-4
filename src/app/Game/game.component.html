@@ -1,0 +1,17 @@
+
+<ActionBar class="action-bar">
+  <NavigationButton visibility="hidden"></NavigationButton>
+  <GridLayout columns="50, *">
+    <Label class="action-bar-title" text="Game" colSpan="2"></Label>
+    
+    <Label class="fas" text="&#xf0c9;" (tap)="onDrawerButtonTap()"></Label>
+  </GridLayout>
+</ActionBar>
+
+<GridLayout class="page__content">
+  <StackLayout>
+    <Label class="page__content-icon fas" (longPress)="longpress($event)" text="&#xf11b;"></Label>
+    <label horizontalAlignment="center" fontSize="20" marginTop="50" text="Haga clic en el logo o deja precionado"></label>
+    <image id="img" width="50%" (longPress)="longpress($event)" marginTop="50" src="~/imagenes/udg.png" (tap)="tap()"> </image>
+  </StackLayout>
+</GridLayout>

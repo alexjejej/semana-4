@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7e75f9d4ba8afb2684c03984bf9beaa2\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7e75f9d4ba8afb2684c03984bf9beaa2\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7e75f9d4ba8afb2684c03984bf9beaa2\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7e75f9d4ba8afb2684c03984bf9beaa2\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7e75f9d4ba8afb2684c03984bf9beaa2\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7e75f9d4ba8afb2684c03984bf9beaa2\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7e75f9d4ba8afb2684c03984bf9beaa2\\core-1.1.0\\res\\layout\\notification_template_custom_big.xml"
+    }
+]

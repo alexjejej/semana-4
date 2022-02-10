@@ -1,0 +1,38 @@
+<ActionBar class="action-bar">
+  <NavigationButton visibility="hidden"></NavigationButton>
+  <GridLayout columns="50, *">
+    <Label class="action-bar-title" text="Personal" colSpan="2"></Label>
+
+    <Label class="fas" text="&#xf0c9;" (tap)="onDrawerButtonTap()"></Label>
+  </GridLayout>
+</ActionBar>
+<page xmlns="http://schemas.nativescript.org/tns.xsd"
+      xmlns:PullRefresh="@nativescript-community/ui-pulltorefresh"
+      loaded="pageLoaded">
+<StackLayout class="page__content" #layout>
+  <Label class="page__content-icon fas" text="&#xf007;"></Label>
+  <Label horizontalAlignment="center" text="____________________"></Label>
+  <Label horizontalAlignment="center" text="____________________"></Label>
+  <FlexboxLayout flexDirection="row">
+    <TextField #texto="ngModel" horizontalAlignment="center" [(ngModel)]="textFieldValue" hint="Cargo a buscar" width="70%" required minlen="4"></TextField>
+    <Label width="25%" *ngIf="texto.hasError('required')" text="*"></Label>
+    <Label width="25%" *ngIf="!texto.hasError('required') && texto.hasError('minlen')" text="Mínimo 4 carácteres"> </Label>
+   </FlexboxLayout>
+  <WrapLayout>
+    <Button marginTop="50" text="Buscar" width="40%" horizontalAlignment="left" *ngIf="texto.valid" (tap)="onButtonTap($event)"></Button>
+    <Button marginTop="50" text="Buscar" width="40%" background="red" horizontalAlignment="left" *ngIf="texto.invalid" (tap)="mensajeinvalid()"></Button>
+    <Button marginTop="50" text="Mostrar todos" width="40%" horizontalAlignment="right" (tap)="mostrarTodos()"></Button>
+  </WrapLayout>
+  <Label id="lbl" horizontalAlignment="center"  text="Clic en la persona para más detalles"></Label>
+  <SearchForm (search)="buscarAhora($event)"></SearchForm>>
+      <ListView class="list-group" [items]="this.resultados" marginTop="50" (itemTap)="OnItemTap($event)" style="height:1250px">
+         <ng-template let-item="item" let-y="src">
+           <Flexboxlayout  flexDirection="row" class="list-group-item">
+             <Image [src]="item.image" class="thumb img-circle"></Image>
+             <label [text]="item.name" class="list-group-item-heading" verticalAlignment="center" style="width: 60%"></label>
+           </Flexboxlayout>
+        </ng-template>
+  
+      </ListView>
+  </StackLayout>
+</page>

@@ -1,0 +1,60 @@
+// Import common styles
+@import 'app-common';
+@import '@nativescript/theme/core';
+@import '@nativescript/theme/default';
+
+// Android azul
+
+// Font icon class
+.fab {
+  font-family: 'Font Awesome 5 Brands', 'fa-brands-400';
+  font-weight: 400;
+}
+
+.fas {
+  font-family: 'Font Awesome 5 Free', 'fa-solid-900';
+  font-weight: 900;
+}
+
+.far {
+  font-family: 'Font Awesome 5 Free', 'fa-regular-400';
+  font-weight: 400;
+}
+.boton
+{
+  @keyframes example {
+    from {
+      background-color: red;
+    }
+    to {
+      background-color: green;
+    }
+  }
+  
+  .view {
+    animation-name: example;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+  }
+}
+// Common page class
+.page__content {
+  &-icon,
+  &-placeholder {
+    color: const(blue);
+    font-size: 30;
+    vertical-align: center;
+    horizontal-align: center;
+  }
+
+  &-icon {
+    font-size: 80;
+    vertical-align: top;
+    margin-top: 20%;
+  }
+}
+
+// Drawer navigation custom styles
+.nt-drawer__header-image {
+  color: const(blue);
+}

@@ -1,0 +1,42 @@
+
+<ActionBar class="action-bar">
+  <NavigationButton visibility="hidden"></NavigationButton>
+  <GridLayout columns="auto,*,auto">
+    <Label class="action-bar-title" text="Usuario" colSpan="2"></Label>
+    <Label class="fas" text="&#xf0c9;" (tap)="onDrawerButtonTap()"></Label>
+  </GridLayout>
+</ActionBar>
+<Page (loaded)="pageLoaded($event)">
+  <PullToRefresh (refresh)="onPull($event)">
+<StackLayout>
+  <Image id="image"  marginTop="-10" class="thumb img-circle" width="50%" height="30%" ></Image>
+  <Label id="name" horizontalAlignment="center" marginTtextWrap="true" marginTop="-20" fontSize="30" text="xx" ></Label>
+  <Label id="cargo" fontSize="25" text="xx" textWrap="true" ></Label>
+  <label id="descripcion" fontSize="20" ></label>
+  <FlexboxLayout flexDirection="column">
+    <label text="Reseñas" textAlignment="center" marginTop="10" fontSize="25" background="#FF5733" color="#ffffff" ></label>
+    <label text="Recarga la página para ver mas reseñas" fontStyle="italic" textAlignment="center" marginTop="10" fontSize="15" ></label>
+  </FlexboxLayout >
+  
+  
+    <ListView [items]="this.review.buscar()" marginTop="50" class="list-group">
+       <ng-template let-item="item">
+        <FlexboxLayout flexDirection="column" >
+           <Image [src]="item.imageR" width="70" height="100"> </Image>
+           <label [text]="item.nameR" textAlignment="center" fontSize="18"></label>
+           <label [text]="item.review" fontStyle="italic" textWrap="true" textAlignment="center" fontSize="15" ></label>
+
+        </FlexboxLayout>
+      </ng-template>
+
+    </ListView>
+    <Label horizontalAlignment="center" text="¿Conoces a la persona? Calificala"></Label>
+      <WrapLayout>
+        <image src="res://like" marginTop="50" width="30%" height="45%" (tap)="like()" horizontalAlignment="left"></image>
+        <image src="res://dislike" marginTop="50" width="30%" height="30%" (tap)="dislike()" horizontalAlignment="right"></image>
+        <image src="res://fav" marginTop="50" width="30%" height="30%" (tap)="favoritos()" horizontalAlignment="center"></image>
+      </WrapLayout>
+</StackLayout>
+</PullToRefresh>
+</Page>
+

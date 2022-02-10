@@ -1,0 +1,18 @@
+{
+	"@nativescript-community/ui-pulltorefresh": {
+		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\@nativescript-community\\ui-pulltorefresh\\platforms\\android\\include.gradle": "b5941a0b9d82ebe9349fc94427fe0dda37f911a5",
+		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\@nativescript-community\\ui-pulltorefresh\\platforms\\android\\native-api-usage.json": "d796ba1d6815057b3ff4d96d83200e3d0af333d6",
+		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\@nativescript-community\\ui-pulltorefresh\\platforms\\android\\ui_pulltorefresh.aar": "34cad61cb9a4132cb3eed3834c9908d172b49554",
+		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\@nativescript-community\\ui-pulltorefresh\\platforms\\android\\java\\com\\nativescript\\swiperefreshlayout\\CarouselFriendlySwipeRefreshLayout.java": "f7ec4828a250ed5fa37b7c2898fc95a29ea62cda"
+	},
+	"@nativescript/core": {
+		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\@nativescript\\core\\platforms\\android\\native-api-usage.json": "0cd032a77062661af174380f5a8f8ad8c8a32687",
+		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\@nativescript\\core\\platforms\\android\\widgets-release.aar": "69e62c559648a2a4ce29efe01b2d5daec4ea794d"
+	},
+	"nativescript-ui-sidedrawer": {
+		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\nativescript-ui-sidedrawer\\platforms\\android\\TNSSideDrawer-release.aar": "601190cbc04b24f7d68a0212c45bb1b9bc97708a"
+	},
+	"nativescript-ui-core": {
+		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\nativescript-ui-core\\platforms\\android\\TNSCore-release.aar": "b0a7669a71f361505f1a91a9ebc1b9cf64213f79"
+	}
+}

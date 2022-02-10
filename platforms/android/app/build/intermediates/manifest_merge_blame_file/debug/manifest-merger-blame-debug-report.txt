@@ -1,0 +1,93 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.nativescript.prueba"
+4    android:versionCode="10000"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml
+10
+11    <supports-screens
+11-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+12        android:largeScreens="true"
+12-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+13        android:normalScreens="true"
+13-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+14        android:smallScreens="true"
+14-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+15        android:xlargeScreens="true" />
+15-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+16
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:13:2-76
+17-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:13:19-74
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:14:2-77
+18-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:14:19-75
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:15:2-63
+19-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:15:19-61
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:16:2-75
+20-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:16:19-73
+21	//iconos de icons8.com//
+22    <application
+22-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:19:2-44:16
+23        android:name="com.tns.NativeScriptApplication"
+23-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:20:3-49
+24        android:allowBackup="true"
+24-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:21:3-29
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.1.0] C:\Users\alexg\.gradle\caches\transforms-2\files-2.1\82135a6afa86a0d8558ea3cf6f6e5274\core-1.1.0\AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+27        android:hardwareAccelerated="true"
+27-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:25:3-37
+28        android:icon="@mipmap/icon"
+28-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:22:3-30
+29        android:label="@string/app_name"
+29-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:23:3-35
+30        android:theme="@style/AppTheme" >
+30-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:24:3-34
+31        <activity
+31-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:27:3-42:14
+32            android:name="com.tns.NativeScriptActivity"
+32-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:28:4-47
+33            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout|locale|uiMode"
+33-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:30:4-120
+34            android:exported="true"
+34-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:34:4-27
+35            android:hardwareAccelerated="true"
+35-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:32:4-38
+36            android:label="@string/title_activity_kimera"
+36-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:29:4-49
+37            android:launchMode="singleTask"
+37-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:33:9-40
+38            android:theme="@style/LaunchScreenTheme" >
+38-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:31:4-44
+39            <meta-data
+39-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:36:4-87
+40                android:name="SET_THEME_ON_LAUNCH"
+40-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:36:15-49
+41                android:resource="@style/AppTheme" />
+41-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:36:50-84
+42
+43            <intent-filter>
+43-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:38:4-41:20
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:39:5-57
+44-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:39:13-54
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:40:5-65
+46-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:40:15-62
+47            </intent-filter>
+48        </activity>
+49        <activity android:name="com.tns.ErrorReportActivity" />
+49-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:43:3-57
+49-->C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app\src\main\AndroidManifest.xml:43:13-55
+50    </application>
+51
+52</manifest>

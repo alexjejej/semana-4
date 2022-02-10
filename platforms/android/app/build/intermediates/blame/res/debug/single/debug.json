@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user1.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\user1.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_like.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_logcat_tab.xml.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\debug\\res\\layout\\logcat_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_udg.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\udg.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_alejandro.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\alejandro.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_raquel.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\raquel.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_user3.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\user3.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fav.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\fav.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_like.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dislike.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\dislike.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_raquel.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\raquel.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_director.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\director.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user1.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\user1.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pedro.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\pedro.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_like.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_exception_tab.xml.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\debug\\res\\layout\\exception_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_raquel.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\raquel.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_raquel.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\raquel.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_user2.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\user2.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_user1.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\user1.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_user2.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\user2.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_director.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\director.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_user2.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\user2.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pedro.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\pedro.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fav.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\fav.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_like.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_alejandro.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\alejandro.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_alejandro.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\alejandro.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_alejandro.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\alejandro.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_user1.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\user1.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_like.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user1.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\user1.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dislike.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\dislike.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_director.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\director.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user2.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\user2.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_user3.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\user3.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_raquel.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\raquel.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user2.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\user2.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_udg.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\udg.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user3.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\user3.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fav.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\fav.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_alejandro.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\alejandro.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_fav.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\fav.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_udg.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\udg.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fav.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\fav.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_udg.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\udg.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_udg.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\udg.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dislike.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\dislike.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user3.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\user3.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dislike.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\dislike.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pedro.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\pedro.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_user1.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\user1.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fav.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\fav.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pedro.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\pedro.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_director.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\director.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_raquel.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\raquel.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_error_activity.xml.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\debug\\res\\layout\\error_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_director.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\director.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dislike.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\dislike.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_director.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\director.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_splash_screen.xml.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_udg.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\udg.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user2.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\user2.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user3.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\user3.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pedro.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\pedro.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dislike.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\dislike.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_user3.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\user3.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_alejandro.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\alejandro.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pedro.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\pedro.png"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_like.png.flat",
+        "source": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\like.png"
+    }
+]

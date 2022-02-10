@@ -1,0 +1,19 @@
+<ActionBar class="action-bar">
+  <NavigationButton visibility="hidden"></NavigationButton>
+  <GridLayout columns="50, *">
+    <Label class="action-bar-title" text="Settings" colSpan="2"></Label>
+
+    <Label class="fas" text="&#xf0c9;" (tap)="onDrawerButtonTap()"></Label>
+  </GridLayout>
+</ActionBar>
+<Page (loaded)="pageLoaded($event)">
+<GridLayout class="page__content">
+  <Label class="page__content-icon fas" text="&#xf013;"></Label>
+  <Label id="name" marginTop="50" marginTop="270" horizontalAlignment="center" text=""></Label>
+  <Label textWrap="true" marginTop="50"marginTop="300" horizontalAlignment="center">
+    <FormattedString>
+      <span text="¿Quieres cambiar tu nombre de usuario?"></span>
+    </FormattedString></Label>
+    <Button marginTop="50" text="Clic aqui" width="40%" horizontalAlignment="center" (tap)="btn()"></Button>
+</GridLayout>
+</Page>

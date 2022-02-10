@@ -1,0 +1,24 @@
+<ActionBar class="action-bar">
+  <NavigationButton visibility="hidden"></NavigationButton>
+  <GridLayout columns="50, *">
+    <Label class="action-bar-title" text="Edición de nombre" colSpan="2"></Label>
+
+    <Label class="fas" text="&#xf0c9;" (tap)="onDrawerButtonTap()"></Label>
+  </GridLayout>
+</ActionBar>
+<page xmlns="http://schemas.nativescript.org/tns.xsd"
+      xmlns:PullRefresh="@nativescript-community/ui-pulltorefresh"
+      loaded="pageLoaded">
+<StackLayout class="page__content" #layout>
+  <Label class="page__content-icon fas" text="&#xf044;"></Label>
+  <FlexboxLayout flexDirection="row">
+    <TextField #texto="ngModel" marginTop="50" horizontalAlignment="center" [(ngModel)]="textFieldValue" hint="Nuevo nombre" width="100%" required minlen="4"></TextField>
+    <Label width="25%" *ngIf="texto.hasError('required')" text="*"></Label>
+    <Label width="25%" *ngIf="!texto.hasError('required') && texto.hasError('minlen')" text="Muy corto"> </Label>
+   </FlexboxLayout>
+  <WrapLayout>
+    <Button  text="Cambiar nombre" width="100%" horizontalAlignment="left" *ngIf="texto.valid" (tap)="onButtonTap($event)"></Button>
+    <Button text="Cambiar nombre" width="100%" background="red" horizontalAlignment="left" *ngIf="texto.invalid" (tap)="mensajeinvalid()"></Button>
+  </WrapLayout>
+</StackLayout>
+</page>
