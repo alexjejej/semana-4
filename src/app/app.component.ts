@@ -8,6 +8,8 @@ import {
 } from 'nativescript-ui-sidedrawer'
 import { filter } from 'rxjs/operators'
 import { Application } from '@nativescript/core'
+import { firebase } from '@nativescript/firebase'
+import { ToastDuration, Toasty } from '@triniwiz/nativescript-toasty'
 
 
 @Component({
@@ -24,12 +26,27 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit(): void {
+
+    firebase.init({
+      onMessageReceivedCallback: (message: firebase.Message) => {
+        console.log(`titulo: ${message.title}`);
+        console.log(`cuerpo: ${message.body}`);
+        console.log(`data': ${JSON.stringify(message.data)}`);
+        new Toasty({ text: 'Notificacion: ' +message.title}).setToastDuration(ToastDuration.SHORT).show();
+      },
+      onPushTokenReceivedCallback: (token) => console.log(`Firebase push token: ` + token)
+    }).then(
+      ()=> console.log(`firebase.init done`),
+      (error) => console.log(`firebase.init error: ${error}`)
+    );
+
     this._activatedUrl = '/home'
     this._sideDrawerTransition = new SlideInOnTopTransition()
 
     this.router.events
       .pipe(filter((event: any) => event instanceof NavigationEnd))
       .subscribe((event: NavigationEnd) => (this._activatedUrl = event.urlAfterRedirects))
+    
   }
 
   get sideDrawerTransition(): DrawerTransitionBase {

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\alexg\\semana3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\10731302e0d04b9b72877a087877c503\\swiperefreshlayout-1.1.0\\res\\values\\values.xml",
@@ -36,7 +36,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "outputFile": "C:\\Users\\alexg\\semana3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\10731302e0d04b9b72877a087877c503\\swiperefreshlayout-1.1.0\\res\\values\\values.xml",

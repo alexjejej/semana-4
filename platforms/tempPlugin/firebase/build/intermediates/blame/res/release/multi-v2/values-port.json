@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\alexg\\semana3\\platforms\\tempPlugin\\firebase\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\9ed158ef93d54a5390f608570bdcfccc\\appcompat-1.0.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\alexg\\semana3\\platforms\\tempPlugin\\firebase\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\9ed158ef93d54a5390f608570bdcfccc\\appcompat-1.0.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

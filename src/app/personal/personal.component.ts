@@ -1,12 +1,13 @@
 import { Component, ElementRef, EventEmitter, OnInit, Output, ViewChild } from '@angular/core'
 import { RadSideDrawer } from 'nativescript-ui-sidedrawer'
-import { Application, Color, ItemEventData, Label, View } from '@nativescript/core'
+import { Application, Color, Folder, ItemEventData, knownFolders, Label, path, View } from '@nativescript/core'
 import { ListasService } from "../domain/listas.service"
 import { RouterExtensions } from '@nativescript/angular';
 import { ToastDuration, ToastPosition, Toasty } from '@triniwiz/nativescript-toasty';
 import * as appSettings from '@nativescript/core/application-settings';
-
-let count=0;
+//import * as SocialShare from "nativescript-social-share";
+import * as SocialShare from "@nativescript/social-share";
+import { ImageSource } from "@nativescript/core";
 
 @Component({
   selector: 'Personal',
@@ -59,6 +60,32 @@ export class PersonalComponent implements OnInit {
 
     const sideDrawer = <RadSideDrawer>Application.getRootView()
     sideDrawer.closeDrawer()
+  }
+  onLongPressImage(s){
+
+    
+    if (s.cargo=="Director"){
+      ImageSource.fromUrl("https://www.unionjalisco.mx/wp-content/uploads/2021/05/villanueva_2-1024x683.jpg").then((image) => {
+            SocialShare.shareImage(image);
+            console.log(s.cargo);
+        });
+    }else if(s.cargo=="Aseo"){
+      ImageSource.fromUrl("https://www.todoaseo.com/wp-content/uploads/2020/06/hogar-limpio.png").then((image) => {
+            SocialShare.shareImage(image);
+            console.log(s.cargo);
+        });
+    }else if(s.cargo=="Profesor"){
+      ImageSource.fromUrl("https://cdn-icons-png.flaticon.com/512/257/257651.png").then((image) => {
+            SocialShare.shareImage(image);
+            console.log(s.cargo);
+        });
+    }else if(s.cargo=="Estudiante"){
+      ImageSource.fromUrl("https://static.vecteezy.com/system/resources/previews/000/511/962/non_2x/vector-student-glyph-black-icon.jpg").then((image) => {
+            SocialShare.shareImage(image);
+            console.log(s.cargo);
+        });
+    }
+
   }
 
   buscarAhora(s:string){
@@ -116,7 +143,6 @@ animacion(){
     delay: 50
   }));
 }
-  
   mostrarTodos(){
     this.animacion();
     this.people.mostrartodo().then((r: any) =>{

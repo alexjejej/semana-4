@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7e75f9d4ba8afb2684c03984bf9beaa2\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "merged": "C:\\Users\\alexg\\semana3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
         "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7e75f9d4ba8afb2684c03984bf9beaa2\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "merged": "C:\\Users\\alexg\\semana3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7e75f9d4ba8afb2684c03984bf9beaa2\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\semana3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
         "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7e75f9d4ba8afb2684c03984bf9beaa2\\core-1.1.0\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "merged": "C:\\Users\\alexg\\semana3\\platforms\\tempPlugin\\ui_pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
         "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7e75f9d4ba8afb2684c03984bf9beaa2\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
     }
 ]

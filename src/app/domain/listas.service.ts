@@ -7,7 +7,7 @@ const sqlite = require("nativescript-sqlite");
 
 
 export class ListasService {
-	api: string ="https://98e6-2806-2f0-5480-17a6-a01f-580e-7c3a-ce8d.ngrok.io"; 
+	api: string ="https://d61c-2806-2f0-5480-19be-b862-af53-89d0-797a.ngrok.io"; 
 	constructor() {
 		this.getDb((db) => {
 			console.dir(db);
@@ -45,8 +45,7 @@ export class ListasService {
 	}
 	mostrartodo(){
 		console.log(this.api + "/get?q=");
-		return getJSON(this.api + "/get?q=");
-		
+		return getJSON(this.api + "/get?q=");	
 	}
 	OnItemTap(args){
 	

@@ -11,5 +11,11 @@
   <GridLayout class="page__content">
     <Label class="page__content-icon fas" text="&#xf015;"></Label>
     <Label class="page__content-placeholder" text="Bienvenido  :)"></Label>
+    <StackLayout>
+        <Button text="Acceder a cámara"  (tap)="camara()"></Button>
+        <Button text="Información del dispositivo"  (tap)="dispositivo()"></Button>
+        <Button text="Información de la conexión"  (tap)="monitorar()"></Button>
+
+    </StackLayout>
   </GridLayout>
   </Page>

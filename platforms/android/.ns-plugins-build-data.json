@@ -1,18 +1,53 @@
 {
 	"@nativescript-community/ui-pulltorefresh": {
-		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\@nativescript-community\\ui-pulltorefresh\\platforms\\android\\include.gradle": "b5941a0b9d82ebe9349fc94427fe0dda37f911a5",
-		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\@nativescript-community\\ui-pulltorefresh\\platforms\\android\\native-api-usage.json": "d796ba1d6815057b3ff4d96d83200e3d0af333d6",
-		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\@nativescript-community\\ui-pulltorefresh\\platforms\\android\\ui_pulltorefresh.aar": "34cad61cb9a4132cb3eed3834c9908d172b49554",
-		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\@nativescript-community\\ui-pulltorefresh\\platforms\\android\\java\\com\\nativescript\\swiperefreshlayout\\CarouselFriendlySwipeRefreshLayout.java": "f7ec4828a250ed5fa37b7c2898fc95a29ea62cda"
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript-community\\ui-pulltorefresh\\platforms\\android\\native-api-usage.json": "c4b3731ba47d247d04660d0ff3a0c93c5a0b32bc",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript-community\\ui-pulltorefresh\\platforms\\android\\include.gradle": "cbfb4b2b048b0db0911e99c9547669dda433fa63",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript-community\\ui-pulltorefresh\\platforms\\android\\java\\com\\nativescript\\swiperefreshlayout\\CarouselFriendlySwipeRefreshLayout.java": "9ae000faa349544543a1cbacf903c6a45c9153d7",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript-community\\ui-pulltorefresh\\platforms\\android\\ui_pulltorefresh.aar": "34cad61cb9a4132cb3eed3834c9908d172b49554"
 	},
 	"@nativescript/core": {
-		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\@nativescript\\core\\platforms\\android\\native-api-usage.json": "0cd032a77062661af174380f5a8f8ad8c8a32687",
-		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\@nativescript\\core\\platforms\\android\\widgets-release.aar": "69e62c559648a2a4ce29efe01b2d5daec4ea794d"
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\core\\platforms\\android\\native-api-usage.json": "367e00346887302bf51eb937b8d5c85a6e71bf0f",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\core\\platforms\\android\\widgets-release.aar": "69e62c559648a2a4ce29efe01b2d5daec4ea794d"
+	},
+	"@nativescript/firebase": {
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\firebase\\platforms\\android\\firebase-release.aar": "e1a0244835b078d3faab4fcd4e1cc50828d2a161",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\firebase\\platforms\\android\\firebase.aar": "ffe7fb54a6d97fc54daf27774b95bc9ead02c45e",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\firebase\\platforms\\android\\include.gradle": "b93367672410dbf9231f9dd83b7f18a32de2c9f1",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\firebase\\platforms\\android\\nativescript-firebase-mlkit-helper.jar-disabled": "d4ae4e5e19f9a7e46fc693eeb778883246c49d00",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\firebase\\platforms\\android\\res\\raw\\beep.ogg": "1a522c83c9af8babf4b1aa83755ed93742a815c6"
 	},
 	"nativescript-ui-sidedrawer": {
-		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\nativescript-ui-sidedrawer\\platforms\\android\\TNSSideDrawer-release.aar": "601190cbc04b24f7d68a0212c45bb1b9bc97708a"
+		"C:\\Users\\alexg\\semana3\\node_modules\\nativescript-ui-sidedrawer\\platforms\\android\\TNSSideDrawer-release.aar": "601190cbc04b24f7d68a0212c45bb1b9bc97708a"
 	},
 	"nativescript-ui-core": {
-		"C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\node_modules\\nativescript-ui-core\\platforms\\android\\TNSCore-release.aar": "b0a7669a71f361505f1a91a9ebc1b9cf64213f79"
+		"C:\\Users\\alexg\\semana3\\node_modules\\nativescript-ui-core\\platforms\\android\\TNSCore-release.aar": "b0a7669a71f361505f1a91a9ebc1b9cf64213f79"
+	},
+	"@nativescript/social-share": {
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\social-share\\platforms\\android\\AndroidManifest.xml": "ca6e2ceca22448641563fa6f6c773ef10b292e10",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\social-share\\platforms\\android\\res\\xml\\provider_paths.xml": "dbe562dfa44616ea40d88a3cbd74b3e8f44c54f3",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\social-share\\platforms\\android\\social_share.aar": "520596c9729821cb9165c01780936dbabe2eec1f"
+	},
+	"@nativescript/email": {
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\email\\platforms\\android\\res\\xml\\provider_paths.xml": "d2ee62df3f939eac5b28570acee364a124ed07d0",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\email\\platforms\\android\\AndroidManifest.xml": "3c0e6f657a343b55c7619f1b8199eedb6d738ce4",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\email\\platforms\\android\\email.aar": "dc721298d00bc3952b7b5cdfb5371b3dcbd00e1f"
+	},
+	"@nativescript/camera": {
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\camera\\platforms\\android\\AndroidManifest.xml": "faebbd0ed93a5c418203848d7ba267d9d6103024",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\camera\\platforms\\android\\res\\xml\\provider_paths.xml": "dbe562dfa44616ea40d88a3cbd74b3e8f44c54f3",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\camera\\platforms\\android\\java\\org\\nativescript\\plugins\\camera\\Utils.java": "e0065dd76946892e90b11e5c375691f65b0b3300",
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\camera\\platforms\\android\\camera.aar": "f6c5850ad259148ce69c4594896bd1c64dff9765"
+	},
+	"tns-core-modules-widgets": {
+		"C:\\Users\\alexg\\semana3\\node_modules\\tns-core-modules-widgets\\platforms\\android\\widgets-release.aar": "ea387e7a96a4ccb0df5c645b313c5dcf8042a0bb"
+	},
+	"nativescript-google-maps-sdk": {
+		"C:\\Users\\alexg\\semana3\\node_modules\\nativescript-google-maps-sdk\\platforms\\android\\include.gradle": "faf6fc754a47c6266f96b0406272ff1f1028a054",
+		"C:\\Users\\alexg\\semana3\\node_modules\\nativescript-google-maps-sdk\\platforms\\android\\res\\values\\nativescript_google_maps_api.xml": "d17f77bd86070f002f9c7e6b406b8e89a9b039a6",
+		"C:\\Users\\alexg\\semana3\\node_modules\\nativescript-google-maps-sdk\\platforms\\android\\AndroidManifest.xml": "130cc0f7d61291e1fe1fe5162746b1b3def24330",
+		"C:\\Users\\alexg\\semana3\\node_modules\\nativescript-google-maps-sdk\\platforms\\android\\nativescript_google_maps_sdk.aar": "f451ce5e9f7351ce921376238c24c5366fbff549"
+	},
+	"@nativescript/unit-test-runner": {
+		"C:\\Users\\alexg\\semana3\\node_modules\\@nativescript\\unit-test-runner\\platforms\\android\\unit_test_runner.aar": "0fc7ca60014864a982b7fd47c7cf2c8064282cd0"
 	}
 }

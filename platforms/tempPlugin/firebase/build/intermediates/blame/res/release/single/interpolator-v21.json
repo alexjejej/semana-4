@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\alexg\\semana3\\platforms\\tempPlugin\\firebase\\build\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\adfcebe54079f11377a17b6d148e87d0\\material-1.0.0\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\semana3\\platforms\\tempPlugin\\firebase\\build\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\adfcebe54079f11377a17b6d148e87d0\\material-1.0.0\\res\\interpolator-v21\\mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexg\\semana3\\platforms\\tempPlugin\\firebase\\build\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\adfcebe54079f11377a17b6d148e87d0\\material-1.0.0\\res\\interpolator-v21\\mtrl_fast_out_linear_in.xml"
+    }
+]

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436490941664",
+    "project_id": "semana-4-59fe1",
+    "storage_bucket": "semana-4-59fe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436490941664:android:0d80119a4422e868180c85",
+        "android_client_info": {
+          "package_name": "org.nativescript.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436490941664-s9hk3tkjev4qgbh61nfq2dd1gb5mm576.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBR4LPzHGBw1xF8IKzhgihNfM9E4TIRsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436490941664-s9hk3tkjev4qgbh61nfq2dd1gb5mm576.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

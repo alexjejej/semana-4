@@ -9,7 +9,9 @@
 
 <StackLayout class="page__content">
   <Label class="page__content-icon far" text="&#xf1ea;"></Label>
-  <Label Size="20" horizontalAlignment="center" marginTop="100" text="¿Deseas conocer tu plataforma?"></Label>
-  <button text="Clic aqui" class="boton"  (tap)="tap()"></button>
+  
 
 </StackLayout>
+<GridLayout>
+  <MapView (mapReady)="onMapReady($event)"></MapView>
+</GridLayout>

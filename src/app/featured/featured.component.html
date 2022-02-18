@@ -21,7 +21,8 @@
   <ListView marginTop="50" class="list-group" [items]="getpeople()" (itemTap)="onItemTap($event)">
             <Label text="{{ getpeople() }}"></Label>
     </ListView>
-    <Button text="Cargar de nuevo"  (tap)="mostrarbd()"></Button>
+    <Button text="Compartir favoritos por redes sociales"  (tap)="mostrarbd()"></Button>
+    <Button text="Compartir favoritos por correo"  (tap)="correo()"></Button>
 
 </StackLayout>
 </GridLayout>

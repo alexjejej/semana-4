@@ -24,11 +24,13 @@
     <Button marginTop="50" text="Mostrar todos" width="40%" horizontalAlignment="right" (tap)="mostrarTodos()"></Button>
   </WrapLayout>
   <Label id="lbl" horizontalAlignment="center"  text="Clic en la persona para más detalles"></Label>
+  <Label id="lbl" horizontalAlignment="center"  text="Deja presionado la foto para compartir"></Label>
+
   <SearchForm (search)="buscarAhora($event)"></SearchForm>>
       <ListView class="list-group" [items]="this.resultados" marginTop="50" (itemTap)="OnItemTap($event)" style="height:1250px">
          <ng-template let-item="item" let-y="src">
            <Flexboxlayout  flexDirection="row" class="list-group-item">
-             <Image [src]="item.image" class="thumb img-circle"></Image>
+             <Image [src]="item.image" class="thumb img-circle" (longPress)="onLongPressImage(item)"></Image>
              <label [text]="item.name" class="list-group-item-heading" verticalAlignment="center" style="width: 60%"></label>
            </Flexboxlayout>
         </ng-template>

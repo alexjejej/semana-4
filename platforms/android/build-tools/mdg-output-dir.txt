@@ -1,1 +1,1 @@
-C:\Users\alexg\OneDrive\Documentos\6to semestre\Curso\semana-3\platforms\android\app/src/main/assets/metadata
+C:\Users\alexg\semana3\platforms\android\app/src/main/assets/metadata

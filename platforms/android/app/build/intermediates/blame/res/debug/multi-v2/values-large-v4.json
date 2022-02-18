@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\alexg\\OneDrive\\Documentos\\6to semestre\\Curso\\semana-3\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\Users\\alexg\\semana3\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\5110a3e53ea2ad275e01122bc7e6f4e2\\appcompat-1.1.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\3a0cacf217c6873207d29093f92bb6ec\\appcompat-1.1.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\9b5125f3a1a10615140f1a421e8a5432\\material-1.1.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\alexg\\.gradle\\caches\\transforms-2\\files-2.1\\7058b071ae4df8f6d6dd0d04384acb10\\material-1.1.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

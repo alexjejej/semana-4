@@ -4,16 +4,40 @@
         "directory": "..\\..\\node_modules\\@nativescript-community\\ui-pulltorefresh"
     },
     {
+        "name": "@nativescript/camera",
+        "directory": "..\\..\\node_modules\\@nativescript\\camera"
+    },
+    {
         "name": "@nativescript/core",
         "directory": "..\\..\\node_modules\\@nativescript\\core"
+    },
+    {
+        "name": "@nativescript/email",
+        "directory": "..\\..\\node_modules\\@nativescript\\email"
+    },
+    {
+        "name": "@nativescript/firebase",
+        "directory": "..\\..\\node_modules\\@nativescript\\firebase"
+    },
+    {
+        "name": "@nativescript/social-share",
+        "directory": "..\\..\\node_modules\\@nativescript\\social-share"
     },
     {
         "name": "@nativescript/theme",
         "directory": "..\\..\\node_modules\\@nativescript\\theme"
     },
     {
+        "name": "@nativescript/unit-test-runner",
+        "directory": "..\\..\\node_modules\\@nativescript\\unit-test-runner"
+    },
+    {
         "name": "@triniwiz/nativescript-toasty",
         "directory": "..\\..\\node_modules\\@triniwiz\\nativescript-toasty"
+    },
+    {
+        "name": "nativescript-google-maps-sdk",
+        "directory": "..\\..\\node_modules\\nativescript-google-maps-sdk"
     },
     {
         "name": "nativescript-sqlite",
@@ -30,6 +54,10 @@
     {
         "name": "nativescript-ui-sidedrawer",
         "directory": "..\\..\\node_modules\\nativescript-ui-sidedrawer"
+    },
+    {
+        "name": "nativescript-permissions",
+        "directory": "..\\..\\node_modules\\nativescript-permissions"
     },
     {
         "name": "nativescript-ui-core",

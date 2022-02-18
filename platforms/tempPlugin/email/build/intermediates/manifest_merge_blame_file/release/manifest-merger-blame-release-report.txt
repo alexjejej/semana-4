@@ -1,0 +1,34 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="org.nativescript.email"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk android:targetSdkVersion="26" />
+8-->C:\Users\alexg\semana3\platforms\tempPlugin\email\src\main\AndroidManifest.xml
+9
+10    <application>
+10-->C:\Users\alexg\semana3\platforms\tempPlugin\email\src\main\AndroidManifest.xml:3:3-7:17
+11        <provider
+11-->C:\Users\alexg\semana3\platforms\tempPlugin\email\src\main\AndroidManifest.xml:4:5-6:16
+12            android:name="androidx.core.content.FileProvider"
+12-->C:\Users\alexg\semana3\platforms\tempPlugin\email\src\main\AndroidManifest.xml:4:15-64
+13            android:authorities="${applicationId}.provider"
+13-->C:\Users\alexg\semana3\platforms\tempPlugin\email\src\main\AndroidManifest.xml:4:65-112
+14            android:exported="false"
+14-->C:\Users\alexg\semana3\platforms\tempPlugin\email\src\main\AndroidManifest.xml:4:113-137
+15            android:grantUriPermissions="true" >
+15-->C:\Users\alexg\semana3\platforms\tempPlugin\email\src\main\AndroidManifest.xml:4:138-172
+16            <meta-data
+16-->C:\Users\alexg\semana3\platforms\tempPlugin\email\src\main\AndroidManifest.xml:5:7-142
+17                android:name="android.support.FILE_PROVIDER_PATHS"
+17-->C:\Users\alexg\semana3\platforms\tempPlugin\email\src\main\AndroidManifest.xml:5:18-68
+18                android:resource="@xml/provider_paths"
+18-->C:\Users\alexg\semana3\platforms\tempPlugin\email\src\main\AndroidManifest.xml:5:102-140
+19                tools:replace="android:resource" />
+19-->C:\Users\alexg\semana3\platforms\tempPlugin\email\src\main\AndroidManifest.xml:5:69-101
+20        </provider>
+21    </application>
+22
+23</manifest>
